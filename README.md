@@ -1,2 +1,2 @@
-# DIB_VDP
+# DIB VDP Public Comments
 Public Comments
