@@ -1443,51 +1443,49 @@ e.  Not to pursue action, whether criminal or civil, against a
 
 4.  **[Points of Contact:]{.ul}**
 
-#[^1]: "Memorandum of Agreement Between the Department of Defense Cyber
-#    Crime Center (DC3) and The Defense Counterintelligence and Security
-#    Agency (DCSA) Establishing and Governing an Information Sharing and
-#    Operational Coordination Partnership", 26 November 2019.
-#
-#[^2]: https://www.hackerone.com/blog/why-every-federal-agency-needs-vdp
-#
-#[^3]: https://www.hackerone.com/blog/vulnerability-disclosure-assistance
-#
-#[^4]: https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a\_a_vulnerability_disclosure_insights_report.pdf
-#
-#[^5]: Additionally, DCSA also is able to leverage information gleaned
-#    from law enforcement (LE), counterintelligence (CI), or other
-#    Intelligence Community (IC) sources to provide notifications to CCs.
-#
-#[^6]: https://cyber.dhs.gov/bod/20-01/
-#
-#[^7]: https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf
-#
-#[^8]: The CERT Guide to Coordinated Vulnerability Disclosure, August
-#    2017, Section 1.2.4, p.3.
-#
-#[^9]: Ibid., Section 1.2.5, p3.
-#
-#[^10]: Bug Bounties and Vulnerability Disclosure Programs share many
-#    similarities, but are different constructs for vulnerability
-#    discovery and coordination. We will discuss this later in this
-#    study.
+[^1]: "Memorandum of Agreement Between the Department of Defense Cyber
+    Crime Center (DC3) and The Defense Counterintelligence and Security
+    Agency (DCSA) Establishing and Governing an Information Sharing and
+    Operational Coordination Partnership", 26 November 2019.
+
+[^2]: https://www.hackerone.com/blog/why-every-federal-agency-needs-vdp
+
+[^3]: https://www.hackerone.com/blog/vulnerability-disclosure-assistance
+
+[^4]: https://www.ntia.doc.gov/files/ntia/publications/2016_ntia_a\_a_vulnerability_disclosure_insights_report.pdf
+
+[^5]: Additionally, DCSA also is able to leverage information gleaned
+    from law enforcement (LE), counterintelligence (CI), or other
+    Intelligence Community (IC) sources to provide notifications to CCs.
+
+[^6]: https://cyber.dhs.gov/bod/20-01/
+
+[^7]: https://resources.sei.cmu.edu/asset_files/SpecialReport/2017_003_001_503340.pdf
+
+[^8]: The CERT Guide to Coordinated Vulnerability Disclosure, August
+    2017, Section 1.2.4, p.3.
+
+[^9]: Ibid., Section 1.2.5, p3.
+
+[^10]: Bug Bounties and Vulnerability Disclosure Programs share many
+    similarities, but are different constructs for vulnerability
+    discovery and coordination. We will discuss this later in this
+    study.
 3
-#[^11]: The Lifecycle of a Vulnerability can be found in the DoD VDP 2019
-#    Annual Report,
-#    <https://www.dc3.mil/Portals/100/Documents/DC3/Directorates/VDP/Annual%20Reports/2019_vdp_annualmetricvol1.pdf?ver=2020-05-04-154737-473>,
-#    p.4.
-#
-#[^12]: Usually disclosed in the National Vulnerability Database, or NVD,
-#    and subsequently included in new 'hacking tools' and Frameworks like
-#    Metasploit.
-#
-#[^13]: Kenna Security, "Prioritization to Prediction: Analyzing
-#    Vulnerability Remediation Strategies", p. 22. Can be found at
-#    <https://www.kennasecurity.com/prioritization-to-prediction-report/>
-#    .
-#
-#[^14]: For a DIB-VDP draft user's agreement, please see Appendix A,
-#    "Notional DIB VDP Terms of Service Agreement".
-#
-#
-#
+[^11]: The Lifecycle of a Vulnerability can be found in the DoD VDP 2019
+    Annual Report,
+    <https://www.dc3.mil/Portals/100/Documents/DC3/Directorates/VDP/Annual%20Reports/2019_vdp_annualmetricvol1.pdf?ver=2020-05-04-154737-473>,
+    p.4.
+
+[^12]: Usually disclosed in the National Vulnerability Database, or NVD,
+    and subsequently included in new 'hacking tools' and Frameworks like
+    Metasploit.
+
+[^13]: Kenna Security, "Prioritization to Prediction: Analyzing
+    Vulnerability Remediation Strategies", p. 22. Can be found at
+    <https://www.kennasecurity.com/prioritization-to-prediction-report/>
+    .
+
+[^14]: For a DIB-VDP draft user's agreement, please see Appendix A,
+    "Notional DIB VDP Terms of Service Agreement".
+
