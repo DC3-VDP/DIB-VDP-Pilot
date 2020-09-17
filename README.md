@@ -2,7 +2,7 @@
 
 ![page1](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/DIB-VDP%20Feasibility%20Study%20v_1_0%20Final.png)
 ![page2](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/DIB-VDP%20Feasibility%20Study%20v_1_0%20Final-2.png)
-![page3](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/DIB-VDP%20Feasibility%20Study%20v_1_0%20Final.pdf)
+
 
 
 
