@@ -30,4 +30,5 @@ Welcome to the DIB-VDP Feasibility Study period of public comments Git page.  Th
 
 ![issues3](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2012_41_02-Window.png)
 
-Finally, thank you for participating as all the comments will help shape the effectiveness of 2021 DIB-VDP Pilot Program. If you need assistance using Github or have general questions please send an email to VDP-Questions@dc3.mil.
+Finally, thank you for participating as all the comments will help shape the effectiveness of 2021 DIB-VDP Pilot Program. If you need assistance using Github or have general questions please send an email to 
+VDP-Questions@dc3.mil.
