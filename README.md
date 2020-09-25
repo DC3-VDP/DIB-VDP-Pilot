@@ -19,3 +19,7 @@ Welcome to the DIB-VDP Feasibility Study period of comments Git page.  This page
 2. After clicking the "Issues" link you will be presented with the "Issues" page. On this page you will see all "issues" posted by all commentators. You will be able to view issues, post on current issues and create your own issues.  You will also be able to open new issues on this page.
 
 ![issues1](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2010_47_35-Window.png)
+
+3.  Clicking the "New Issue" button will open a template for you to enter you comment into. Remember to include line number(s) when filling this out. Below that you can type a comment into the body on the issue and then finally click the "Submit New Issue" button to post it.
+
+![issues2](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2011_03_18-Window.png)
