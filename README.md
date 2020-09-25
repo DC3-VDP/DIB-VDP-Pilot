@@ -12,4 +12,5 @@ Welcome to the DIB-VDP Feasibility Study period of comments Git page.  This page
 
 ```Instructions on posting a comment:```
 
-1. 
+1. In the ribbion at the top of the page click on the "Issues" button.
+![click](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2010_25_25-Window.png)
