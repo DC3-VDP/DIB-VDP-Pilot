@@ -2,6 +2,10 @@
 
 Welcome to the DIB-VDP Feasibility Study period of comments Git page.  This page will help guide you to view and download as well as how to post a comment. This feasibility study will be running from [date to date] so make sure to comment and comment often before end date.  
 
+[DIB-VDP Feasibility Study in Word](https://github.com/DC3-VDP/DIB-VDP-Pilot/raw/master/DIB-VDP%20Feasibility%20Study%20v_1_0%20Final.docx)
+
+[DIB-VDP Feasibility Study in PDF](https://github.com/DC3-VDP/DIB-VDP-Pilot/raw/master/DIB-VDP%20Feasibility%20Study%20v_1_0%20Final.pdf)
+
 ```A few Requirements:```
 
 - You may read and download the document without an account but you will need a Github account to post a comment. Signing up for a [Github](https://github.com/join) account is free and easy and many of you may already have an account already.
