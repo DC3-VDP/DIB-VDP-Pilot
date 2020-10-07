@@ -22,7 +22,7 @@ Welcome to the DIB-VDP Feasibility Study period of public comments Github page. 
 
 ![issues1](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2010_47_35-Window.png)
 
-3.  Clicking the "New Issue" button will open a template for you to enter a comment. Remember to include line number(s), E or S category code for each issue, and brief justification (for S comments only). Type a comment into the text box for the issue and click the "Submit New Issue" button to post it.
+3.  Clicking the "New Issue" button will open a template for you to enter a comment. Remember to include line number(s), E or S category code for each issue, and brief justification (for S comments only) in the title. Type a comment into the text box for the issue and click the "Submit New Issue" button to post it.
 
 ![issues2](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2011_03_18-Window.png)
 
