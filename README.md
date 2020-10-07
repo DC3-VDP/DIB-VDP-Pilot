@@ -1,6 +1,6 @@
 ## Welcome!
 
-Welcome to the DIB-VDP Feasibility Study period of public comments Github page.  This page will help guide you to view and download the study as well as how to post comments. The DIB-VDP Feasibility Study public comment period will be open from [date to date] so make sure to submit your comments before the end date.  
+Welcome to the DIB-VDP Feasibility Study period of public comments Github page.  This page will help guide you to view and download the study as well as how to post comments. The DIB-VDP Feasibility Study public comment period will be open for 60 days from 10/7/2020 to 12/6/2020 so make sure to submit your comments before the end date.  
 
 [DIB-VDP Feasibility Study in Word](https://github.com/DC3-VDP/DIB-VDP-Pilot/raw/master/DIB-VDP%20Feasibility%20Study%20v_1_0%20Final.docx)
 
