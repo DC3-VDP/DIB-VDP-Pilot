@@ -28,7 +28,7 @@ Welcome to the DIB-VDP Feasibility Study period of public comments Github page. 
 
 4.  And that's it, you will be returned to your submitted issue. It can be reviewed and/or commented on by others at this time. If a commentator wants to make a comment on a posted issue it's just like submitting an issue. Use the field under the comment to edit and tracked others comments. Simply fill in the field with your issue and click the "Comment" button at the bottom.
 
-![issues3](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-09-25%2012_41_02-Window.png)
+![issues3](https://github.com/DC3-VDP/DIB-VDP-Pilot/blob/master/images/2020-10-08%2008_08_50-Window.png)
 
 Finally, thank you for participating as all the comments will help shape the effectiveness of 2021 DIB-VDP Pilot Program. If you need assistance using Github or have general questions please send an email to 
 VDP-Questions@dc3.mil.
